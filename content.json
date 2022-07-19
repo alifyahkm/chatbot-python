@@ -11,7 +11,8 @@
         "Jadwal matakuliah",
         "Info matakuliah",
         "Informasi matakuliah",
-        "Akses Info Mata Kuliah"
+        "Akses Info Mata Kuliah",
+        "Mata kuliah kelas saya"
       ],
       "responses": [
         "Informasi mengenai Jadwal Mata Kuliah dan Ruang Kelas dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Jadwal Mahasiswa</li> </ol>"
