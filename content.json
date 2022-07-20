@@ -3,84 +3,56 @@
     {
       "tag": "jadwalmatkul",
       "input": [
-        "Jadwal mata kuliah?",
-        "Informasi mata kuliah",
-        "Info matkul",
-        "Akses info matkul",
-        "Jadwal matkul",
-        "Jadwal matakuliah",
-        "Info matakuliah",
-        "Informasi matakuliah",
-        "Akses Info Mata Kuliah",
-        "Mata kuliah kelas saya"
+        "Mata kuliah",
+        "Matkul",
+        "Kelas",
+        "Jadwal Matkul",
+        "Jadwal Mata Kuliah",
+        "Ruangan Kelas",
+        "Ruang Kelas",
+        "Masuk Kelas",
+        "Jam Masuk Kelas"
       ],
       "responses": [
-        "Informasi mengenai Jadwal Mata Kuliah dan Ruang Kelas dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Jadwal Mahasiswa</li> </ol>"
+        "Informasi mengenai Jadwal Mata Kuliah dan Ruang Kelas dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Jadwal Mahasiswa</li> </ol>"
       ]
     },
     {
-      "tag": "jadwalujian",
+      "tag": "ujiansemester",
       "input": [
-        "Jadwal ujian kapan?",
-        "Kapan jadwal ujian semester",
-        "Ujian kapan ya?",
-        "Informasi Jadwal Ujian Semester",
-        "Informasi Jadwal Ujian",
-        "Info Jadwal Ujian",
-        "Info Jadwal Ujian Semester",
-        "Cek jadwal ujian semster",
-        "Cek jadwal ujian"
+        "Ujian Semester",
+        "Ruang Ujian",
+        "Ruangan Ujian",
+        "Tempat Ujian",
+        "Tempat Ruangan Ujian"
       ],
       "responses": [
-        "Informasi mengenai Jadwal Ujian Semester dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> </ol>"
-      ]
-    },
-    {
-      "tag": "ruangujian",
-      "input": [
-        "Ruangan ujian dimana?",
-        "Info ruang ujian",
-        "informasi ruang ujian",
-        "informasi ruangan ujian",
-        "info ruangan ujian",
-        "dimana ruangan ujian?",
-        "dimana ruangan ujian nya?",
-        "Cek ruangan ujian",
-        "Cek ruang ujian"
-      ],
-      "responses": [
-        "Informasi mengenai Ruangan Ujian dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> </ol>"
+        "Informasi mengenai Ruangan dan Jadwal Ujian Semester dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> </ol>"
       ]
     },
     {
       "tag": "cetakartu",
       "input": [
-        "Bagaimana cara mencetak kartu ujian?",
-        "dimana tempat mencetak kartu ujian?",
-        "info cetak kartu ujian",
-        "informasi cetak kartu ujian",
-        "Print Kartu Ujian",
-        "Cetak Kartu Ujian"
+        "Cetak kartu ujian",
+        "Mencetak kartu ujian",
+        "Print kartu ujian",
+        "Cetak ujian",
+        "Cetak kartu",
+        "Print kartu",
+        "Kartu ujian"
       ],
       "responses": [
-        "Informasi mengenai Cetak Kartu Ujian dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> <li>Cetak Kartu Ujian</li> </ol>"
+        "Informasi mengenai Cetak Kartu Ujian dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> <li>Cetak Kartu Ujian (Print)</li> </ol>"
       ]
     },
     {
       "tag": "kuliahhybrid",
       "input": [
-        "Informasi Kuliah Hybrid",
-        "info kuliah hybrid",
-        "informasi kuliah online",
-        "info kuliah online",
-        "informasi kuliah offline",
-        "info kuliah offline",
-        "Mau tau info kuliah hybrid",
-        "informasi kuliah hybrid ada dimana?",
-        "bagaimana saya dapat menemukan informasi kuliah hybrid?",
-        "hybrid",
-        "kuliah offline",
-        "kuliah online"
+        "Kuliah Hybrid",
+        "Kuliah Online",
+        "Kuliah Offline",
+        "Online",
+        "Offline"
       ],
       "responses": [
         "Informasi mengenai Kuliah Hybrid dapat kamu akses pada link berikut: <a target='_blank' href='https://baa.telkomuniversity.ac.id/pelaksanaan-perkuliahan-hybrid-semester-genap-ta-2021-2022/'>Klik tautan ini</a>"
@@ -89,48 +61,39 @@
     {
       "tag": "nilaiakademik",
       "input": [
-        "Informasi Nilai Akademik",
-        "Info nilai akademik",
-        "Informasi nilai",
-        "info nilai",
-        "Cara mengetahui nilai",
-        "Bagaimana saya dapat mengetahui nilai semester ini ?",
-        "Nilai semester ini ada dimana ya?",
-        "Lihat dimana ya nilai semester ?",
-        "Akses nilai akademik",
-        "Cara akses nilai semester"
+        "Nilai Akademik",
+        "Nilai Semester",
+        "Nilai Kuliah",
+        "Score Semester",
+        "Score Akademik",
+        "Score Kuliah"
       ],
       "responses": [
-        "Informasi mengenai Nilai Akademik dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Nilai</li> <li>KHS</li> <li>Lihat Nilai atau Lihat Nilai Semester</li> </ol>"
+        "Informasi mengenai Nilai Akademik dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Nilai</li> <li>KHS</li> <li>Lihat Nilai atau Lihat Nilai Semester</li> </ol>"
       ]
     },
     {
       "tag": "masaregis",
       "input": [
-        "Jadwal Masa Registrasi",
-        "Jadwal Masa Regist",
-        "jdwl masa regist",
-        "masa regist",
         "Masa Registrasi",
-        "Kapan masa registrasi semester ini?",
-        "Kapan masa regist",
-        "Bagaimana cara mengetahui masa registrasi ?"
+        "Masa regist",
+        "Registrasi Mata Kuliah",
+        "Regist Matkul",
+        "Masa Regis",
+        "Registrasi Kuliah",
+        "Registrasi"
       ],
       "responses": [
-        "Informasi mengenai Masa Registrasi dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Kalender Akademik</li> </ol>"
+        "Informasi mengenai Masa Registrasi dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Kalender Akademik</li> </ol>"
       ]
     },
     {
       "tag": "cutiakademik",
       "input": [
-        "Informasi Pengajuan Cuti Akademik",
-        "Informasi Pengajuan Cuti Kuliah",
-        "info cuti kuliah",
-        "daftar cuti kuliah",
-        "Informasi Cuti Kuliah",
-        "Bagaimana cara mengajukan Cuti Akademik ?",
-        "Bagaimana cara mengajukan Cuti Kuliah ?",
-        "Cara mengajukan Cuti Perkuliahan"
+        "Pengajuan Cuti Akademik",
+        "Cuti Akademik",
+        "Pengajuan Cuti",
+        "Cuti"
       ],
       "responses": [
         "Informasi mengenai Pengajuan Cuti Akademik dapat kamu akses pada link berikut: <a target='_blank' href='https://baa.telkomuniversity.ac.id/pengajuan-cuti-akademik/'>Klik tautan ini</a>"
@@ -139,169 +102,83 @@
     {
       "tag": "sksmatkul",
       "input": [
-        "Bagaimana cara melihat SKS Mata kuliah ?",
-        "Bagaimana cara mengetahui jumlah SKS Mata Kuliah ?",
-        "Informasi SKS Mata Kuliah",
-        "Informasi Total SKS sampai lulus",
-        "Informasi Jumlah Mata Kuliah",
-        "Info SKS Mata Kuliah",
-        "Infor Total SKS sampai lulus",
-        "Info Jumlah Mata Kuliah"
+        "SKS Mata Kuliah",
+        "SKS Matkul",
+        "SKS Semester",
+        "SKS Persemester",
+        "SKS",
+        "Total SKS",
+        "Jumlah SKS"
       ],
       "responses": [
-        "Informasi mengenai SKS Mata Kuliah dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Nilai</li> <li>KHS</li> <li>Lihat Ekivalensi</li> </ol>"
+        "Informasi mengenai SKS Mata Kuliah dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Nilai</li> <li>KHS</li> <li>Lihat Ekivalensi</li> </ol>"
       ]
     },
     {
       "tag": "beasiswa",
-      "input": [
-        "Informasi Beasiswa",
-        "Info Beasiswa",
-        "Informasi kuliah gratis",
-        "Bagaimana saya dapat menemukan informasi mengenai Beasiswa ?",
-        "Dimana saya dapat menemukan informasi mengenai Beasiswa ?",
-        "Info Beasiswa ada dimana ya?",
-        "Informasi Beasiswa ada dimana ya?",
-        "Informasi mengenai Beasiswa ada dimana ya?",
-        "Info mengenai Beasiswa ada dimana ?"
-      ],
+      "input": ["Beasiswa", "Beasiswa Telkom", "Beasiswa Kuliah"],
       "responses": [
         "Informasi mengenai Beasiswa dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/beasiswa/'>Klik tautan ini</a>"
       ]
     },
     {
       "tag": "kalenderakademik",
-      "input": [
-        "Informasi Kalender Akademik",
-        "Info Kalender Akademik",
-        "Informasi Kalender Perkuliahan",
-        "Info Kalender Perkuliahan",
-        "Bagaimana saya dapat menemukan Kalender Akademik ?",
-        "Dimana saya dapat menemukan Kalender Akademik ?",
-        "Dimana kalender akademik ?",
-        "Kalender Akademik",
-        "Kalender Perkuliahan"
-      ],
+      "input": ["Kalender Akademik", "Kalender Pembelajaran"],
       "responses": [
-        "Informasi mengenai Kalender Akademik dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Registrasi</li> <li>Jadwal</li> <li>Kalender Akademik</li> </ol>"
+        "Informasi mengenai Kalender Akademik dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Kalender Akademik</li> </ol>"
       ]
     },
     {
-      "tag": "infotak",
+      "tag": "tak",
       "input": [
-        "Informasi TAK",
-        "Info TAK",
-        "Mau lihat info TAK",
-        "Dimana informasi TAK",
-        "TAK ada dimana",
-        "TAK"
-      ],
-      "responses": [
-        "Informasi mengenai TAK dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>TAK</li> <li>Beranda</li> </ol>"
-      ]
-    },
-    {
-      "tag": "pengajuantak",
-      "input": [
+        "TAK",
         "Pengajuan TAK",
-        "Input TAK",
-        "Informasi Pengajuan TAK",
-        "Info Pengajuan TAK",
-        "Informasi Input TAK",
-        "Info Input TAK",
-        "Bagaimana cara pengajuan TAK ?",
-        "Bagaimana cara menginput TAK ?",
-        "Input TAK dimana ?",
-        "Dimana tempat Input TAK ?"
-      ],
-      "responses": [
-        "Informasi mengenai Pengajuan TAK dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>TAK</li> <li>Input TAK</li> </ol>"
-      ]
-    },
-    {
-      "tag": "verifikasitak",
-      "input": [
         "Verifikasi TAK",
-        "Informasi TAK yang telah di input",
-        "Info TAK yang telah di input",
-        "Informasi TAK yang telah di ajukan",
-        "Info TAK yang telah di ajukan",
-        "Bagaimana cara melihat TAK yang sudah di ajukan ?",
-        "Data TAK yang telat di ajukan "
+        "Input TAK",
+        "Transkrip Aktivitas Kemahasiswaan"
       ],
       "responses": [
-        "Informasi mengenai Verifikasi TAK dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>TAK</li> <li>Verifikasi TAK</li> </ol>"
+        "Informasi mengenai TAK (Status, Pengajuan dan Verifikasi)  dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih TAK</li> </ol>"
       ]
     },
     {
-      "tag": "infotesbahasa",
+      "tag": "tesbahasa",
       "input": [
-        "Informasi Tes Bahasa",
-        "Info Tes Bahasa",
         "Tes Bahasa",
         "Pusat Bahasa",
         "ECCT",
-        "EPrT",
         "TUVEE",
-        "Informasi ECCT",
-        "Informasi EPrT",
-        "Informasi TUVEE"
+        "EPrT",
+        "Daftar EPRT",
+        "Daftar ECCT",
+        "Daftar TUVEE",
+        "Pendaftaran EPRT",
+        "Pendaftaran ECCT",
+        "Pendaftaran TUVEE"
       ],
       "responses": [
-        "Informasi mengenai Informasi Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pusat Bahasa</li> <li>Beranda</li> </ol>"
-      ]
-    },
-    {
-      "tag": "daftartesbahasa",
-      "input": [
-        "Informasi Pendaftaran Tes Bahasa",
-        "Informasi Pendaftaran EPrT",
-        "Informasi Pendaftaran ECCT",
-        "Informasi Pendaftaran TUVEE",
-        "Bagaimana cara mendaftar EPrT ?",
-        "Bagaimana cara mendaftar ECCT ?",
-        "Bagaimana cara mendaftar TUVEE ?",
-        "Daftar EPrT dimana ?",
-        "Daftar ECCT dimana ?",
-        "Daftar TUVEE dimana ?"
-      ],
-      "responses": [
-        "Informasi mengenai Daftar Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pusat Bahasa</li> <li>Registrasi Layanan</li> <li>Pendaftaran</li> </ol>"
-      ]
-    },
-    {
-      "tag": "datatesbahasa",
-      "input": [
-        "Cek Data Pendaftaran Tes Bahasa",
-        "Cek daftar tes bahasa",
-        "Cek data Tes Bahasa",
-        "Cek pendaftaran EPrT",
-        "Cek pendaftaran EPrT",
-        "Informasi data pendaftaran tes bahasa",
-        "info data pendaftaran tes bahasa"
-      ],
-      "responses": [
-        "Informasi mengenai Data Pendaftaran Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pusat Bahasa</li> <li>Registrasi Layanan</li> <li>Data Pendaftaran</li> </ol>"
+        "Informasi mengenai Tes Bahasa dan Pendaftaran Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Pusat Bahasa</li> </ol>"
       ]
     },
     {
       "tag": "skortesbahasa",
       "input": [
         "Skor Tes Bahasa",
-        "Cek Skor Tes bahasa",
-        "Cek score tes bahasa",
-        "Cek nilai EPrT",
-        "Cek nilai ECCT",
-        "Cek nilai TUVEE",
-        "Cara melihat score tes bahasa",
-        "Cara melihat hasil tes bahasa",
-        "Hasil tes bahasa",
-        "Nilai ECCT",
+        "Score Tes Bahasa",
+        "Nilai Tes Bahasa",
         "Nilai EPrT",
-        "Nilai TUVEE"
+        "Nilai ECCT",
+        "Nilai TUVEE",
+        "Score EPrT",
+        "Score ECCT ",
+        "Score TUVEE",
+        "Hasil EPrT",
+        "Hasil ECCT",
+        "Hasil TUVEE",
+        "Hasil Tes Bahasa"
       ],
       "responses": [
-        "Informasi mengenai Skor Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pusat Bahasa</li> <li>Skor Tes Bahasa</li> <li>Nilai Tes Bahasa</li> </ol>"
+        "Informasi mengenai Skor Tes Bahasa dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Pusat Bahasa</li> <li>Klik Skor Tes Bahasa</li> <li>Nilai Tes Bahasa</li> </ol>"
       ]
     },
     {
@@ -310,25 +187,20 @@
         "Input Nilai Tes Bahasa dari Luar Instansi",
         "Input nilai bahasa dari luar telkom",
         "Input Nilai Tes Bahasa dari Luar Instansi",
-        "Menambahkan nilai tes bahasa",
-        "Nilai tes bahasa dari luar instansi"
+        "Menambahkan nilai tes bahasa "
       ],
       "responses": [
-        "Informasi mengenai Input Nilai Tes Bahasa dari Instansi Luar dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pusat Bahasa</li> <li>Skor Tes Bahasa</li> <li>Input Nilai dari Instansi Luar</li> </ol>"
+        "Informasi mengenai Input Nilai Tes Bahasa dari Instansi Luar dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Pusat Bahasa</li> <li>Klik Skor Tes Bahasa</li> <li>Input Nilai dari Instansi Luar</li> </ol>"
       ]
     },
     {
       "tag": "jurusan",
       "input": [
-        "Informasi Program Studi",
-        "Info Program Studi",
-        "Informasi Jurusan",
-        "Info Jurusan",
-        "dimana informasi jurusan ?",
-        "Akses informasi Program studi",
-        "Akses info Program Studi",
-        "Lihat informasi Program Studi",
-        "Lihat info program studi"
+        "Program Studi",
+        "Jurusan",
+        "Prodi",
+        "Jurusan Telkom",
+        "Prodi Telkom"
       ],
       "responses": [
         "Informasi mengenai Program Studi dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/program-studi/'>Klik tautan ini</a>"
@@ -337,16 +209,18 @@
     {
       "tag": "biayapendidikan",
       "input": [
-        "Informasi Biaya Pendidikan",
-        "Info Biaya Pendidikan",
-        "Informasi Biaya Kuliah",
-        "Info Biaya Kuliah",
-        "Akses informasi biaya kuliah",
-        "Akses informasi biaya pendidikan",
-        "Lihat biaya pendidikan",
-        "Lihat biaya kuliah",
-        "Dimana informasi biaya kuliah ?",
-        "Dimana informasi biaya pendidikan ?"
+        "Biaya Pendidikan",
+        "Biaya Kuliah",
+        "Biaya Semester",
+        "Tagihan Kuliah",
+        "Tagihan Semester",
+        "Bayar Semester",
+        "Bayaran Semester",
+        "Bayar Semesteran",
+        "Bayar BPP",
+        "Pembayaran BPP",
+        "Bayaran BPP",
+        "BPP Semester"
       ],
       "responses": [
         "Informasi mengenai Biaya Pendidikan dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/biaya-pendidikan/'>Klik tautan ini</a>"
@@ -354,18 +228,7 @@
     },
     {
       "tag": "kelasinter",
-      "input": [
-        "Informasi Kelas Internasional",
-        "Info Kelas Internasional",
-        "Kelas Internasional",
-        "Akses Informasi Kelas Internasional",
-        "Akses Info Kelas Internasional",
-        "Cara mendapatkan informasi kelas internasional",
-        "Kelas Inter",
-        "Info Kelas Inter",
-        "Informasi Kelas Inter",
-        "Akses Informasi Kelas Inter"
-      ],
+      "input": ["Kelas Internasional", "Kelas Inter", "International Class"],
       "responses": [
         "Informasi mengenai Kelas Internasional dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/kelas-internasional/'>Klik tautan ini</a>"
       ]
@@ -373,15 +236,15 @@
     {
       "tag": "daftarmahasiswa",
       "input": [
-        "Informasi Pendaftaran Mahasiswa",
-        "Info Pendaftaran Mahasiswa",
-        "Infomasi Daftar Kuliah",
-        "Info Daftar Kuliah",
-        "Cara mendaftar kuliah",
         "Daftar Kuliah",
+        "Pendaftaran Kuliah",
         "Pendaftaran Mahasiswa",
-        "Daftar masuk kampus",
-        "Pendaftaran masuk kampus"
+        "Pendaftaran Mahasiswa baru",
+        "Pendaftaran Maba",
+        "Pendaftaran mhs",
+        "Daftar Masuk Kampus",
+        "Daftar Masuk Kuliah",
+        "Mahasiswa Baru"
       ],
       "responses": [
         "Informasi mengenai Pendaftaran Mahasiswa dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/petunjuk-pendaftaran/'>Klik tautan ini</a>"
@@ -390,13 +253,15 @@
     {
       "tag": "seleksimahasiswa",
       "input": [
-        "Informasi Seleksi Mahasiswa",
-        "Info Seleksi Mahasiswa",
         "Seleksi Mahasiswa",
         "Jalur Seleksi Mahasiswa",
-        "Jalur Seleksi Kampus",
-        "Info Jalur Seleksi Kampus",
-        "Akses informasi jalur seleksi"
+        "SMB",
+        "Seleksi Mahasiswa Baru",
+        "Seleksi Maba",
+        "Penerimaan Mahasiswa Baru",
+        "PMB",
+        "Penerimaan Maba",
+        "Jalur Seleksi"
       ],
       "responses": [
         "Informasi mengenai Seleksi Mahasiswa dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/jalur-seleksi/'>Klik tautan ini</a>"
@@ -404,17 +269,7 @@
     },
     {
       "tag": "asramatelkom",
-      "input": [
-        "Informasi Asrama Telkom",
-        "Info Asrama Telkom",
-        "Info Asrama",
-        "Asrama Telkom",
-        "Info Dorm",
-        "Dorm",
-        "Dormitory Telkom",
-        "Cek informasi asrama telkom",
-        "tentang asrama telkom"
-      ],
+      "input": ["Asrama Telkom", "Asrama", "Dormitory Telkom", "Dorm"],
       "responses": [
         "Informasi mengenai Asrama Telkom dapat kamu akses pada link berikut: <a target='_blank' href='https://dormitory.telkomuniversity.ac.id/'>Klik tautan ini</a>"
       ]
@@ -423,299 +278,144 @@
       "tag": "virtualtour",
       "input": [
         "Virtual Tour Telkom University",
-        "Informasi Virtual tour",
-        "Info Virtual Tour",
-        "Virtualtour",
-        "Cek Virtual Tour Telkom"
+        "Virtual Tour",
+        "Virtualtour"
       ],
       "responses": [
         "Informasi mengenai Virtual Tour Telkom University dapat kamu akses pada link berikut: <a target='_blank' href='https://tour.telkomuniversity.ac.id/'>Klik tautan ini</a>"
       ]
     },
     {
-      "tag": "kodedosen",
-      "input": ["Info kode dosen", "informasi kode dosen", "kode dosen"],
-      "responses": [
-        "Informasi mengenai Kode Dosen dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b'>Klik tautan ini</a> Kemudian pilih SK Pengajaran sesuai tahun dan jurusan yang diinginkan"
-      ]
-    },
-    {
-      "tag": "namadosen",
+      "tag": "infodosen",
       "input": [
-        "Informasi Nama dosen",
-        "info nama dosen",
-        "siapa nama dosen",
-        "Nama Dosen"
-      ],
-      "responses": [
-        "Informasi mengenai Nama Dosen dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b'>Klik tautan ini</a> Kemudian pilih SK Pengajaran sesuai tahun dan jurusan yang diinginkan"
-      ]
-    },
-    {
-      "tag": "dosenwali",
-      "input": [
-        "Dosen wali ",
-        "informasi dosen wali",
-        "info dosen wali",
-        "info doswal",
-        "informasi doswal",
-        "doswal"
-      ],
-      "responses": [
-        "Informasi mengenai Dosen Wali dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-dosen-wali/ '>Klik tautan ini</a>"
-      ]
-    },
-    {
-      "tag": "nipdosen",
-      "input": [
+        "Kode Dosen",
+        "Nama Dosen",
         "NIP Dosen",
-        "Informasi NIP Dosen ",
-        "info NIP dosen",
-        "berapa nip dosen"
+        "Dosen wali ",
+        "Doswal",
+        "Waldos",
+        "Wali Dosen"
       ],
       "responses": [
-        "Informasi mengenai NIP Dosen dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b'>Klik tautan ini</a> Kemudian pilih SK Pengajaran sesuai tahun dan jurusan yang diinginkan"
+        "Informasi mengenai Dosen dapat kamu akses pada link berikut: <ol> <li>Data Dosen (Kode Dosen,Nama Dosen dan NIP Dosen) : <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b'>Klik tautan ini</a> > Kemudian pilih SK Pengajaran sesuai tahun dan jurusan yang diinginkan </li> <li>Dosen Wali : <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-dosen-wali/ '>Klik tautan ini</a> </li> </ol>"
       ]
     },
     {
-      "tag": "jadwalsusulan",
+      "tag": "ujiansusulan",
       "input": [
         "Jadwal Ujian susulan",
-        "Jadwal UTS Susulan",
-        "informasi jadwal ujian susulan",
-        "info jadwal ujian susulan",
-        "info jadwal UTS Susulan",
-        "Informasi Jadwal UTS Susulan",
-        "Informasi Jadwal UAS Susulan",
-        "Jadwal UAS Susulan",
-        "Info Jadwal UAS Susulan"
+        "UTS Susulan",
+        "UAS Susulan",
+        "Pengajuan Ujian Susulan",
+        "Ujian Susulan"
       ],
       "responses": [
-        "Informasi mengenai Jadwal Ujian Susulan dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d'>Klik tautan ini</a> "
-      ]
-    },
-    {
-      "tag": "daftarsusulan",
-      "input": [
-        "Pengajuan Ujian susulan",
-        "alur pengajuan ujian susulan",
-        "daftar ujian susulan",
-        "pendaftaran ujian susulan",
-        "Pengajuan UAS Susulan",
-        "Pengajuan UTS Susulan",
-        "Info Pengajuan UAS Susulan",
-        "Info Pengajuan UTS Susulan",
-        "Informasi Pengajuan Ujian Susulan",
-        "Permohonan Ujian Susulan"
-      ],
-      "responses": [
-        "Informasi mengenai Alur Pengajuan Ujian Susulan dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d'>Klik tautan ini</a> "
+        "Informasi mengenai Alur Pengajuan dan Jadwal Ujian Susulan dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/#1589609773094-f5306717-037d'>Klik tautan ini</a> "
       ]
     },
     {
       "tag": "kerjapraktek",
       "input": [
-        "Informasi Kerja Praktek",
-        "info jadwal kerja praktek",
-        "informasi kp",
-        "info kp",
-        "info kerja praktek",
-        "informasi jadwal kerja praktek",
-        "Informasi Magang",
         "Magang",
-        "Info Magang"
+        "Kerja Praktik",
+        "Kerja Praktek",
+        "KP",
+        "Internship",
+        "Kape",
+        "Surat Penjajakan",
+        "Surat Penjajakan KP",
+        "Surat Penjajakan Kerja Praktek",
+        "Surat Penjajakan Magang",
+        "Surat Penjajakan Internship",
+        "Surat Izin Kerja Praktek",
+        "Surat Izin KP",
+        "Surat Izin Magang",
+        "Surat Izin Internship",
+        "Srt Izin",
+        "Surat Izin",
+        "Surat Izin Kape"
       ],
       "responses": [
-        "Informasi mengenai Kerja Praktek dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kerja-praktek/'>Klik tautan ini</a> "
+        "Informasi mengenai Kerja Praktek dapat kamu akses pada link berikut: <ol> <li> Panduan Kerja Praktek : <a target='_blank' href='https://see.telkomuniversity.ac.id/kerja-praktek/'>Klik tautan ini</a> </li> <li>Surat Penjajakan Kerja Praktek : <a target='_blank' href='https://kepokape.id'>Klik tautan ini</a> > Login menggunakan akun Kepo Kape > Pilih Kerja Praktek > Surat Penjajakan</li> <li> Surat Izin Kerja Praktek : <a target='_blank' href='https://kepokape.id'>Klik tautan ini</a> > Login menggunakan akun Kepo Kape > Pilih Kerja Praktek > Form Proposal</li> </ol>"
       ]
     },
     {
-      "tag": "suratpenjajakan",
+      "tag": "kelengkapanta",
       "input": [
-        "Link surat penjajakan",
-        "informasi surat penjajakan",
-        "info surat penjajakan",
-        "informasi surat penjajakan kerja praktek",
-        "info surat penjajakan kerja praktek",
-        "informasi surat penjajakan magang",
-        "info surat penjajakan magang",
-        "informasi surat penjajakan kp",
-        "info surat penjajakan kp"
-      ],
-      "responses": [
-        "Informasi mengenai Surat Penjajakan dapat kamu akses pada link berikut: <a target='_blank' href='https://kepokape.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun Kepo Kape</li> <li>Kerja Praktek</li> <li>Surat Penjajakan</li> </ol>"
-      ]
-    },
-    {
-      "tag": "suratizinkp",
-      "input": [
-        "Link surat izin kerja praktek",
-        "informasi surat izin kerja praktek",
-        "info surat izin kerja praktek",
-        "cetak surat izin kerja praktek",
-        "cetak surat izin kp",
-        "informasi surat izin kp",
-        "info surat izin kp",
-        "informasi surat izin magang",
-        "info surat izin magang"
-      ],
-      "responses": [
-        "Informasi mengenai Surat Izin Kerja Praktek dapat kamu akses pada link berikut: <a target='_blank' href='https://kepokape.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun Kepo Kape</li> <li>Kerja Praktek</li> <li>Form Proposal</li> </ol> "
-      ]
-    },
-    {
-      "tag": "bukupanduanta",
-      "input": [
-        "Buku panduan pelaksanaan Tugas Akhir",
-        "panduan pelaksanaan Tugas Akhir",
-        "Tata cara pelaksanaan Tugas Akhir",
-        "Informasi Pelaksanaan Tugas Akhir",
-        "Info Pelaksanaan Tugas Akhir",
-        "Informasi Panduan pelaksanaan tugas akhir",
-        "Buku Panduan Pelaksanaan TA",
-        "Buku Panduan Skripsi",
-        "Informasi Skripsi",
-        "Dokumen Panduan Skripsi"
-      ],
-      "responses": [
-        "Informasi mengenai Buku Panduan Pelaksanaan Tugas Akhir dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a> "
-      ]
-    },
-    {
-      "tag": "proposalta",
-      "input": [
-        "Format proposal Tugas Akhir",
+        "Penulisan Jurnal Tugas Akhir",
+        "Jurnal Tugas Akhir",
+        "Penulisan Jurnal Tugas Akhir",
+        "Jurnal Tugas Akhir",
+        "Jurnal TA",
+        "Template Buku TA",
+        "Format Penulisan Proposal TA",
+        "Template Penulisan TA",
+        "Proposal TA",
         "Proposal Tugas Akhir",
         "Template Proposal Tugas Akhir",
-        "Template Penulisan Tugas Akhir",
+        "Penulisan Tugas Akhir",
         "Format Penulisan Proposal Tugas Akhir",
         "Template Proposal TA",
         "Format Proposal TA",
-        "Format Penulisan Proposal TA",
-        "Template Penulisan TA",
-        "Proposal TA"
-      ],
-      "responses": [
-        "Informasi mengenai Format Proposal Tugas Akhir dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a>"
-      ]
-    },
-    {
-      "tag": "jurnalta",
-      "input": [
-        "Format Jurnal Tugas Akhir",
-        "Format Penulisan Jurnal Tugas Akhir",
-        "Jurnal Tugas Akhir",
-        "Template Penulisan Jurnal Tugas Akhir",
-        "Template Jurnal Tugas Akhir",
-        "Format Penulisan Jurnal Tugas Akhir",
-        "Template Penulisan Jurnal TA",
-        "Format Jurnal TA",
-        "Jurnal TA",
-        "Penulisan Jurnal TA"
-      ],
-      "responses": [
-        "Informasi mengenai Format Jurnal Tugas Akhir dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a> "
-      ]
-    },
-    {
-      "tag": "bukuta",
-      "input": [
-        "Format Buku Tugas Akhir",
-        "Format Penulisan Buku Tugas Akhir",
+        "Panduan Skripsi",
+        "Skripsi",
+        "Tugas Akhir",
+        "Dokumen Panduan Skripsi",
+        "Proposal Tugas Akhir",
+        "Buku panduan pelaksanaan Tugas Akhir",
+        "panduan pelaksanaan Tugas Akhir",
+        "Tata cara pelaksanaan Tugas Akhir",
+        "Pelaksanaan Tugas Akhir",
+        "Buku Panduan Pelaksanaan TA",
+        "Buku Panduan Skripsi",
+        "Penulisan Buku Tugas Akhir",
         "Buku Tugas Akhir",
         "Buku TA",
         "Template Penulisan Buku Tugas Akhir",
         "Template Buku Tugas Akhir",
         "Format Buku TA",
-        "Template Buku TA",
         "Format Penulisan Buku TA",
         "Template Penulisan Buku TA"
       ],
       "responses": [
-        "Informasi mengenai Format Buku Tugas Akhir dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a> "
+        "Informasi mengenai Kelengkapan Tugas Akhir (Panduan, Proposal, Jurnal dan Buku Tugas Akhir) dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a> "
       ]
     },
     {
-      "tag": "jadwalsidang",
+      "tag": "sidangakhir",
       "input": [
-        "Informasi Jadwal Sidang",
-        "Info Jadwal Sidang",
         "Jadwal Sidang",
         "Cek Jadwal Sidang",
-        "Cek Informasi Jadwal Sidang",
-        "Cek Info Jadwal Sidang",
         "Timeline Sidang",
-        "Informasi Timeline Sidang",
-        "Info Timeline Sidang"
+        "Daftar sidang",
+        "Pendaftaran Sidang",
+        "Syarat Sidang",
+        "Persyaratan Sidang",
+        "Sidang Akhir"
       ],
       "responses": [
-        "Informasi mengenai Jadwal Sidang dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/'>Klik tautan ini</a> "
+        "Informasi mengenai Sidang Akhir dapat kamu akses pada link berikut: <ol><li>Persyaratan Sidang : <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/'>Klik tautan ini</a> </li> <li> Pendaftaran Sidang : <a target='_blank' href='https://igracias.telkomuniversity.ac.id/'>Klik tautan ini</a> > Login menggunakan akun SSO > TA/PA > Daftar TA/PA > Status TA/PA Mahasiswa > Daftar Sidang </li> <li> Jadwal Sidang : <a target='_blank' href='https://see.telkomuniversity.ac.id/pengumuman-2020/'>Klik tautan ini</a> </li> </ol>"
       ]
     },
     {
       "tag": "skta",
       "input": [
-        "Informasi SK TA",
-        "Info SK TA",
         "Tentang SK TA",
         "SK TA",
-        "Informasi SK TA/PA",
-        "Info SK TA/PA",
         "Tentang SK TA/PA",
-        "SK TA/PA"
-      ],
-      "responses": [
-        "Informasi mengenai SK TA dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li> TA/PA </li> <li>Daftar TA/PA</li> <li>Status TA/PA Mahasiswa</li> <li>Lihat SK</li> </ol>"
-      ]
-    },
-    {
-      "tag": "statusskta",
-      "input": [
+        "SK TA/PA",
         "Status  SK TA/PA",
-        "Informasi Status SK TA/PA",
-        "Info Status SK TA/PA",
-        "Cek Status SK TA/PA",
-        "Cek Status SK TA",
-        "Informasi Status SK TA",
         "Status SK TA",
-        "Info Status SK TA"
-      ],
-      "responses": [
-        "Informasi mengenai Status SK TA dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li> TA/PA </li> <li>Daftar TA/PA</li> <li>Status TA/PA Mahasiswa</li> <li>Lihat SK</li> </ol>"
-      ]
-    },
-    {
-      "tag": "daftarskta",
-      "input": [
         "Daftar SK TA/PA",
         "Daftar SK TA",
         "Input SK TA",
         "Input SK TA/PA",
-        "Informasi Daftar SK TA/PA",
-        "Info Daftar SK TA/PA",
-        "Cara Daftar SK TA/PA",
-        "Cara Daftar SK TA",
-        "Bagaimana Daftar SK TA/PA",
-        "Bagaimana Daftar SK TA"
+        "SKTA",
+        "Perpanjang SKTA",
+        "Perpanjang SK TA/PA"
       ],
       "responses": [
-        "Informasi mengenai Daftar SK TA dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li> TA/PA </li> <li>Daftar TA/PA</li> <li>Status TA/PA Mahasiswa</li> <li>Pengajuan Proposal</li> </ol>"
-      ]
-    },
-    {
-      "tag": "syaratsidang",
-      "input": [
-        "Informasi Syarat Sidang",
-        "Info Syarat Sidang",
-        "Syarat Sidang",
-        "Persyaratan Sidang",
-        "Apa saja persyaratan sidang",
-        "Apa saja Syarat Sidang",
-        "Cek Syarat Sidang",
-        "Cek Persyaratan Sidang"
-      ],
-      "responses": [
-        "Informasi mengenai Syarat Sidang dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li> TA/PA </li> <li>Daftar TA/PA</li> <li>Status TA/PA Mahasiswa</li> <li>Kelengkapan Sidang</li> </ol>"
+        "Informasi mengenai Status dan Pendaftaran SK TA/PA dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih TA/PA </li> <li>Klik Daftar TA/PA</li> <li>Status TA/PA Mahasiswa</li> <li>Lihat SK</li> </ol>"
       ]
     },
     {

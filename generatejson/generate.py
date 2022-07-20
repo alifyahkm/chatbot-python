@@ -2,7 +2,7 @@ import csv
 file_dest = open("intents.json", "w")
 
 rowcount = 0
-for row in open('data.csv'):
+for row in open('chatbotquestion.csv'):
     rowcount += 1
 
 
@@ -12,7 +12,7 @@ opener = '''
 '''
 file_dest.write(opener)
 count = 0
-with open('data.csv') as csv_file:
+with open('chatbotquestion.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
     line_count = 0
     for row in csv_reader:
