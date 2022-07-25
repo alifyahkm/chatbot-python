@@ -11,7 +11,9 @@
         "Ruangan Kelas",
         "Ruang Kelas",
         "Masuk Kelas",
-        "Jam Masuk Kelas"
+        "Jam Masuk Kelas",
+        "Jadwal Kuliah",
+        "Jam Kuliah"
       ],
       "responses": [
         "Informasi mengenai Jadwal Mata Kuliah dan Ruang Kelas dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Jadwal Mahasiswa</li> </ol>"
@@ -24,7 +26,11 @@
         "Ruang Ujian",
         "Ruangan Ujian",
         "Tempat Ujian",
-        "Tempat Ruangan Ujian"
+        "Tempat Ruangan Ujian",
+        "UAS",
+        "UTS",
+        "Ujian Tengah Semester",
+        "Ujian Akhir Semester"
       ],
       "responses": [
         "Informasi mengenai Ruangan dan Jadwal Ujian Semester dapat kamu akses pada link berikut: <a target='_blank' href='https://igracias.telkomuniversity.ac.id'>Klik tautan ini</a> <ol> <li>Login menggunakan akun SSO</li> <li>Pilih Registrasi</li> <li>Klik Jadwal</li> <li>Jadwal Ujian Mahasiswa</li> </ol>"
