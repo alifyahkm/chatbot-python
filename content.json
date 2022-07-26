@@ -122,7 +122,12 @@
     },
     {
       "tag": "beasiswa",
-      "input": ["Beasiswa", "Beasiswa Telkom", "Beasiswa Kuliah"],
+      "input": [
+        "Beasiswa",
+        "Beasiswa Telkom",
+        "Beasiswa Kuliah",
+        "Program Beasiswa"
+      ],
       "responses": [
         "Informasi mengenai Beasiswa dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/beasiswa/'>Klik tautan ini</a>"
       ]
@@ -381,7 +386,8 @@
         "Template Buku Tugas Akhir",
         "Format Buku TA",
         "Format Penulisan Buku TA",
-        "Template Penulisan Buku TA"
+        "Template Penulisan Buku TA",
+        "TA"
       ],
       "responses": [
         "Informasi mengenai Kelengkapan Tugas Akhir (Panduan, Proposal, Jurnal dan Buku Tugas Akhir) dapat kamu akses pada link berikut: <a target='_blank' href='https://see.telkomuniversity.ac.id/kelengkapan-ta/'>Klik tautan ini</a> "
