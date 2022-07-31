@@ -301,7 +301,8 @@
         "Dosen wali ",
         "Doswal",
         "Waldos",
-        "Wali Dosen"
+        "Wali Dosen",
+        "NIP"
       ],
       "responses": [
         "Informasi mengenai Dosen dapat kamu akses pada link berikut: <ol> <li>Data Dosen (Kode Dosen,Nama Dosen dan NIP Dosen) : <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-pengajaran/#1634805123522-14d0d2ab-ef0b'>Klik tautan ini</a> > Kemudian pilih SK Pengajaran sesuai tahun dan jurusan yang diinginkan </li> <li>Dosen Wali : <a target='_blank' href='https://see.telkomuniversity.ac.id/sk-dosen-wali/ '>Klik tautan ini</a> </li> </ol>"
