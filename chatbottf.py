@@ -67,7 +67,7 @@ model = Model(i, x)
 model.compile(loss="sparse_categorical_crossentropy",
               optimizer='adam', metrics=['accuracy'])
 # training the model
-train = model.fit(x_train, y_train, epochs=450, batch_size=25, verbose=1)
+train = model.fit(x_train, y_train, epochs=500, batch_size=25, verbose=1)
 
 
 def response_to_chat(prediction_input):

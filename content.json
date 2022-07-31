@@ -124,9 +124,9 @@
       "tag": "beasiswa",
       "input": [
         "Beasiswa",
-        "Beasiswa Telkom",
         "Beasiswa Kuliah",
-        "Program Beasiswa"
+        "Program Beasiswa",
+        "Beasiswa Telkom"
       ],
       "responses": [
         "Informasi mengenai Beasiswa dapat kamu akses pada link berikut: <a target='_blank' href='https://smb.telkomuniversity.ac.id/beasiswa/'>Klik tautan ini</a>"
@@ -287,11 +287,7 @@
     },
     {
       "tag": "virtualtour",
-      "input": [
-        "Virtual Tour Telkom University",
-        "Virtual Tour",
-        "Virtualtour"
-      ],
+      "input": ["Virtual Tour Telkom", "Virtual Tour", "Virtualtour"],
       "responses": [
         "Informasi mengenai Virtual Tour Telkom University dapat kamu akses pada link berikut: <a target='_blank' href='https://tour.telkomuniversity.ac.id/'>Klik tautan ini</a>"
       ]
