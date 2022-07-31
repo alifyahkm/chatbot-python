@@ -61,7 +61,7 @@ i = Input(shape=(input_shape,))
 x = Embedding(vocabulary+1, 10)(i)
 x = LSTM(10, return_sequences=True)(x)
 x = Flatten()(x)
-x = Dense(output_length, activation="sigmoid")(x)
+x = Dense(output_length, activation="softmax")(x)
 model = Model(i, x)
 # compiling the model
 model.compile(loss="sparse_categorical_crossentropy",
